@@ -3,3 +3,6 @@ I prepared it for the Data Science course. I took the comments and ratings of th
 
 
 ![alt text](https://github.com/Kilicceker/Amazon-Reviews-Sentiment-Analysis/blob/main/datas.png)
+
+
+![alt text](https://github.com/Kilicceker/Amazon-Reviews-Sentiment-Analysis/blob/main/result.png)
